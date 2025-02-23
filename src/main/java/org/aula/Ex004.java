@@ -9,7 +9,7 @@ public class Ex004 {
     double myDouble = scanner.nextDouble(); /* On passing the double on the prompt, it uses the decimal separator of
     the system. It's "," on my system. */
     
-    scanner.nextLine(); /* necessary line to consume the line break before. */
+    scanner.nextLine(); /* necessary line to consume the line break before it. */
     
     String myString = scanner.nextLine();
     
