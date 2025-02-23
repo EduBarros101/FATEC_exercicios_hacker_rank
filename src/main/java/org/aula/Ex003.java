@@ -1,5 +1,4 @@
-package org.example;
-
+package org.aula;
 import java.util.Scanner;
 
 public class Ex003 {
@@ -7,6 +6,5 @@ public class Ex003 {
     Scanner scanner = new Scanner(System.in);
     
     String string = scanner.next();
-    double
   }
 }
