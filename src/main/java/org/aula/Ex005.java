@@ -8,10 +8,12 @@ public class Ex005 {
     
     Scanner scanner = new Scanner(System.in);
     
+    int n = 3;
+    
     ArrayList<String> myString = new ArrayList<>();
     ArrayList<Integer> myInt = new ArrayList<>();
     
-    for (int i = 0; i < 3; i++){
+    for (int i = 0; i < n; i++){
       myString.add(scanner.next());
       myInt.add(scanner.nextInt());
     }
