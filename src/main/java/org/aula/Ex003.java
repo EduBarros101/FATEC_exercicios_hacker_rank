@@ -1,10 +1,16 @@
+/*Output Format
+
+You must print two lines of output:
+
+    Print Hello, World. on the first line.
+    Print Hello, Java. on the second line.
+*/
+
 package org.aula;
-import java.util.Scanner;
 
 public class Ex003 {
   public static void main(String[] args) {
-    Scanner scanner = new Scanner(System.in);
-    
-    String string = scanner.next();
+    System.out.println("Hello, World.");
+    System.out.println("Hello, Java.");
   }
 }
