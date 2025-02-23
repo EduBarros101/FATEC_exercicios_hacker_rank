@@ -35,3 +35,4 @@ public class Ex005 {
   }
 }
 
+/*Hacker Rank has my simpler version submitted.*/
