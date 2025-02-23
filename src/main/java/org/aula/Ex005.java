@@ -14,8 +14,12 @@ public class Ex005 {
     ArrayList<Integer> myInt = new ArrayList<>();
     
     for (int i = 0; i < n; i++){
-      myString.add(scanner.next());
+      
+      myString.add(scanner.nextLine()); /*ready to read more than a word if needed.*/
       myInt.add(scanner.nextInt());
+      
+      scanner.nextLine(); /*necessary to clear the \n left by nextInt().*/
+      
     }
     
     scanner.close();
