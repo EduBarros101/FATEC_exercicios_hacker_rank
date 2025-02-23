@@ -1,4 +1,6 @@
 # Hacker Rank
 
-Repositório usado para armazenar os exercícios de das aulas de Programação Orientada a Objetos (POO) da FATEC usando 
+Repositório usado para armazenar exercícios das aulas de Programação Orientada a Objetos (POO) da FATEC usando 
 Java.
+
+Sinta-se a vontade para enviar PRs e testar comigo.
