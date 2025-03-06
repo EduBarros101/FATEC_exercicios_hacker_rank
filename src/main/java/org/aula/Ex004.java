@@ -16,6 +16,7 @@ There are three lines of output:
 */
 
 package org.aula;
+
 import java.util.Scanner;
 
 public class Ex004 {
@@ -36,5 +37,4 @@ public class Ex004 {
     System.out.println("Double: " + myDouble);
     System.out.println("Int: " + myInt);
   }
-  
 }

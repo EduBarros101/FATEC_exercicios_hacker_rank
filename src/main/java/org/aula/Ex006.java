@@ -25,8 +25,8 @@ public class Ex006 {
     
     int N = Integer.parseInt(bufferedReader.readLine().trim());
     
-    for (int i = 1; i <=10; i++) {
-      System.out.println(N + " x " + i + " = " + (N*i));
+    for (int i = 1; i <= 10; i++) {
+      System.out.println(N + " x " + i + " = " + (N * i));
     }
     
     bufferedReader.close();
